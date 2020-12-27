@@ -37,7 +37,7 @@ D. Discuss with your counselor:
 
 	 .. raw:: html
 
-	    <center><iframe width="560" height="315" src="https://www.youtube.com/embed/5gYF5azO6jI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+	    <iframe width="560" height="315" src="https://www.youtube.com/embed/5gYF5azO6jI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 	
 	
@@ -48,7 +48,7 @@ D. Discuss with your counselor:
 
 		.. raw:: html
 
-		  <center><iframe width="560" height="315" src="https://www.youtube.com/embed/b7zWwo9dbiU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+		   <iframe width="560" height="315" src="https://www.youtube.com/embed/b7zWwo9dbiU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
    
 
