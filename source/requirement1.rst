@@ -27,7 +27,7 @@ Requirement #1: Research and Reading
 .. Note:: New transportation technology is invented all the time as humans are constantly driven to explore further and further, pushing the boundaries of what they reach!
 
 	       
-	       .. figure:: _images/Flying-Taxi.png
+	       .. figure:: _images/FlyingTaxi.png
 		  :width: 400px
 		  :align: center
 		  :alt: alternate text
