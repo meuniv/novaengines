@@ -16,7 +16,14 @@ Requirement #5: Technology @ life
    An artist's view of a future electric train powered by renewable energy. (Image obtained from https://builtin.com/transportation-tech). Check out the website for many other cool examples of modern transport technologies!
 
     	       
-   
+.. note:: Interested in a job in energy or transportation technology?
+
+	  * Clean energy jobs from the `US Department of Energy (DOE) <https://www.energy.gov/eere/education/clean-energy-jobs-and-planning>_`.
+	  * Career in energy efficient vehicle from the `DOE <https://www.energy.gov/eere/education/explore-careers-energy-efficient-vehicles-0>`_.
+	  * List of career paths in energy from the University of Minnesota State can be found `here <https://careerwise.minnstate.edu/guide/energy/energy-career-clusters.html>`_
+	  * Careers in Transportation and Logistics: `here <https://www.internationalstudent.com/study-transportation-and-logistics/careers-in-transportation-logistics/>`_
+	  * and many many many more!!!
+	    
 .. attention:: Once you have completed this requirement, make sure you document it in your worksheet!
 
 
