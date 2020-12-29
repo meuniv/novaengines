@@ -16,6 +16,7 @@ Welcome to Nova -- Start Your Engines!
    requirement3
    requirement4
    requirement5
+   Others
    contact
    
 .. note::
