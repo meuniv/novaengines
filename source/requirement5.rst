@@ -1,4 +1,4 @@
-Requirement #5: Technology @ life
+Requirement #5: Technology @ Life
 +++++++++++++++++++++++++++++++++
 
 :math:`\boxed{\mathbb{REQ}\Large \rightsquigarrow}` Discuss with your counselor how technology affects your everyday life.
